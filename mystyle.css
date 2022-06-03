@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500&display=swap');
+
+html{
+  font-family: 'Ubuntu', sans-serif;
+}
+
+body{
+  background: #EEEEEE;
+}
+
+h1{
+  text-align: end;
+  margin-right: 50px;
+  margin-top: 40px;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+h2 {
+  display: inline;
+  width: 20px;
+  padding:12px;
+  background-color: #393E46;
+  color: #EEEEEE;
+}
+
+h3{
+  background-color: #00ADB5;
+}
+
+p{
+  position: absolute;
+  display: inline-block;
+  width: 400px;
+  left: 750px;
+  text-align: left;
+  font-size: 30px;
+  padding-top: 40px;
+
+}
+
+img{
+  position: absolute;
+  width: 300px;
+  height: 282px;
+  top: 400px;
+  right: 200px;
+
+}
+
+table {
+  table-layout:fixed;
+  box-sizing: inherit;
+  border-collapse: collapse;
+  color: #393E46;
+  margin-left: 29px;
+  margin-top: 30px;
+}
+
+thead {
+  background-color: #393E46;
+  color: #EEEEEE;
+}
+
+#thd{
+  background-color: darkgrey;
+}
+
+#trd{
+  background-color: darkgrey;
+}
+
+#cold{
+  background-color: darkgrey;
+}
+
+#thed{
+  background-color: darkgrey;
+}
+
+#tfood{
+  background-color: darkgrey;
+}
+
+
+
+
+
+.html-body{
+  background:
+}
+
+.tble {
+  margin-top: 30px;
+  table-layout: auto;
+  text-align: left;
+  margin-left: 50px;
+
+}
+
+th, td{
+  text-align: center;
+  padding: 10px;
+}
+
+.tables{
+  padding:;
+  text-align: center;
+  font-size: 30px;
+}
+
+.title{
+  color: #EEEEEE;
+  background:#222831;
+}
+
+.egtble{
+  padding: 20px;
+}
+
+.tagdrcpt{
+  padding-top: 50px;
+  background-color: white;
+  padding-bottom: 50px;
+}
